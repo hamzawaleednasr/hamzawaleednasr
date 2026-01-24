@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  <i>“Strong foundations build great developers.”</i>
+  <i>“I rebuild myself every time I understand something new.”</i>
 </p>
