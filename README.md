@@ -47,19 +47,19 @@
  
  
 
----
+<!---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzawaleednasr&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzawaleednasr&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <!-- <img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight" alt="GitHub Streak" width="48%" /> -->
+  <img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzawaleednasr&layout=compact&theme=tokyonight" width="45%" />
-</p>
+</p> -->
 
 
 ---
