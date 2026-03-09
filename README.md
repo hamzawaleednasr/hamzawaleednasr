@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzawaleednasr&layout=compact&theme=tokyonight" width="45%" />
 </p> -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight&hide_border=true&border_radius=10&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight&hide_border=true&border_radius=10&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
 
 ---
 
