@@ -53,13 +53,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamzawaleednasr&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzawaleednasr&theme=tokyonight" alt="GitHub Streak" width="48%" />
   <img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzawaleednasr&layout=compact&theme=tokyonight" width="45%" />
 </p> -->
 
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzawaleednasr&layout=compact&theme=tokyonight" width="45%" />
+   -->
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hamzawaleednasr&theme=tokyonight&hide_border=true&border_radius=10&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
