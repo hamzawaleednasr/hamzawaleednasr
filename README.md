@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20%26%20AI%20Student%20at%20Al-Azhar;.NET%20Full%20Stack%20Developer;Strong%20OOP%20%26%20Problem%20Solving;YouTube%20Creator%20%7C%20LearnCodeEasily&font=Fira%20Code&center=true&width=520&height=45&color=00C0FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20%26%20AI%20Student%20at%20Al-Azhar;.NET%20Full%20Stack%20Developer;Strong%20OOP%20%26%20Problem%20Solving;Content%20Creator%20%7C%20LearnCodeEasily&font=Fira%20Code&center=true&width=520&height=45&color=00C0FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
