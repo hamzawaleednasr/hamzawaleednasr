@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi, I'm Hamza Waleed
   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN3NTA0eHVpbnhteGM3cHA0dDN2dmU2cDhhaXl6b2kzMm0xaHU3YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> -->
+  
 </h1>
 
 <p align="center">
