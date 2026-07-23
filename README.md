@@ -17,9 +17,9 @@
 
 ## 👋 About Me
 
+🚀 .NET Full Stack Developer with a focus on building solid backend systems  
 🎓 CS & AI student at Al-Azhar University  
 ⚙ Strong foundations in C++, Python, and Web Development  
-🚀 .NET Full Stack Developer with a focus on building solid backend systems  
 🎥 Content Creator sharing programming knowledge on <a href="https://www.youtube.com/@LearnCodeEasily">LearnCodeEasily</a>
  
 
@@ -28,7 +28,7 @@
 ## 🧰 Tech Stack
 
 <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,py,django,git,vscode,visualstudio&perline=6" style="height:105px;"/> &nbsp;
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,html,css,js,py,django,cpp,git,vscode,visualstudio&perline=6" style="height:105px;"/> &nbsp;
 </p> 
  
  ---
