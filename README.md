@@ -28,7 +28,7 @@
 ## 🧰 Tech Stack
 
 <p>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,postgresql,html,css,js,react,nextjs,py,django,cpp,git,postman,visualstudio&perline=6" style="height:170px;"/> &nbsp;
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,postgresql,html,css,js,react,nextjs,py,cpp,git,postman,visualstudio&perline=6" style="height:170px;"/> &nbsp;
 </p> 
  
  ---
